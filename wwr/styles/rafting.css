@@ -102,15 +102,18 @@ footer nav a img {
     header nav {
         flex-direction: column;
         align-items: flex-start;
+        text-decoration: none;
     }
 
     header nav ul {
         flex-direction: column;
         align-items: flex-start;
+        text-decoration: none;
     }
 
     footer nav {
         flex-direction: column;
+        text-decoration: none;
     }
 }
 
